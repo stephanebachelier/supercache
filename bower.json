@@ -1,6 +1,6 @@
 {
   "name": "supercache",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Caching made easy on top of superagent",
   "main": "dist/supercache.js",
   "author": {
