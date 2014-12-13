@@ -1,0 +1,23 @@
+{
+  "name": "supercache",
+  "version": "0.0.0",
+  "description": "Caching made easy on top of superagent",
+  "main": "dist/supercache.js",
+  "author": {
+    "name": "Stéphane Bachelier",
+    "email": "stephane.bachelier@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/stephanebachelier/supercache.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
